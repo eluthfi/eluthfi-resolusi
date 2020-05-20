@@ -1,0 +1,5 @@
+1.anjing
+2.kucing
+3.babi
+4.ular
+5.jerapah
